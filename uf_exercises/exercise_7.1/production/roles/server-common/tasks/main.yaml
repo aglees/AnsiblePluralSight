@@ -1,0 +1,4 @@
+---
+- include: snmp.yaml
+- include: syslog.yaml
+
